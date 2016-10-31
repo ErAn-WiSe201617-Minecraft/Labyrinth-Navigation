@@ -32,3 +32,13 @@
  #.######xx##ooooo#xx###########
  #.#############################
   s                              
+% comment after given length of labyrinth:
+# wall
+x cul-de-sac
+o detour
+. shortest path
+g goal
+s start
+  do nothing here (margin needed as potential coordinate for bot start)
+
+
